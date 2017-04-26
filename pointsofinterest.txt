@@ -1,0 +1,2 @@
+Eiffel Tower, building, N48.858, E2.295, 115, Paris
+Empire State Building, building, N40.748, W73.986, 1000, New York
